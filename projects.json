@@ -1,0 +1,14 @@
+[
+  {
+    "id": "hospital",
+    "title": "Hospital Management",
+    "technologies": ["Java", "Java Swing"],
+    "description": "A hospital management application developed as a desktop project."
+  },
+  {
+    "id": "universe",
+    "title": "AR-VR Universe Exploration — Kinetic Impact Trajectory Sandbox",
+    "technologies": ["JavaScript", "HTML"],
+    "description": "An interactive project related to universe exploration and kinetic impact trajectory simulation."
+  }
+]
